@@ -1,4 +1,4 @@
-![image](https://github.com/RishivinKannan/Github_User_Search/assets/113093132/b577deae-0b69-4102-ab57-2682b920e5e1)# GitHub User Search App
+# GitHub User Search App
 
 A Flutter app that allows users to search for GitHub users and view their basic information. The app utilizes the GitHub REST API to retrieve user data based on the search query and provides a clean and user-friendly interface. Users can also toggle between dark and light themes.
 
