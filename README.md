@@ -13,10 +13,6 @@ A Flutter app that allows users to search for GitHub users and view their basic 
   - Bio (if available)
 - Toggle between dark and light themes.
 
-## Screenshots
-
-![Search Screen](screenshots/search_screen.png)
-![User Details Screen](screenshots/user_details_screen.png)
 
 ## Getting Started
 
