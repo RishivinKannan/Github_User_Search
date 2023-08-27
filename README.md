@@ -28,24 +28,23 @@ flutter pub get
 4. Run the app:
 flutter run
 
-Configuration
-Splash Screen
+## Configuration
+# Splash Screen
 This app uses a splash screen. You can customize the splash screen image and settings by editing the flutter_native_splash.yaml file in the project root.
 
-Dark and Light Themes
+# Dark and Light Themes
 The app supports both dark and light themes. Users can toggle between themes in the app's settings.
 
-API Configuration
+# API Configuration
 The app uses the GitHub REST API to fetch user data. Ensure that you have internet connectivity and that the API endpoints are accessible.
 
-Libraries and Packages Used
+# Libraries and Packages Used
 dio: For making HTTP requests to the GitHub API.
 provider: For state management and theme toggling.
 flutter_native_splash: For configuring the splash screen.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+
+# Acknowledgments
 Flutter: For the wonderful Flutter framework.
 GitHub REST API: For providing user data.
 Dio: For making HTTP requests.
