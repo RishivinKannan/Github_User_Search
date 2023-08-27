@@ -1,4 +1,4 @@
-# GitHub User Search App
+![image](https://github.com/RishivinKannan/Github_User_Search/assets/113093132/b577deae-0b69-4102-ab57-2682b920e5e1)# GitHub User Search App
 
 A Flutter app that allows users to search for GitHub users and view their basic information. The app utilizes the GitHub REST API to retrieve user data based on the search query and provides a clean and user-friendly interface. Users can also toggle between dark and light themes.
 
@@ -32,19 +32,19 @@ flutter run
 # Splash Screen
 This app uses a splash screen. You can customize the splash screen image and settings by editing the flutter_native_splash.yaml file in the project root.
 
-# Dark and Light Themes
+### Dark and Light Themes
 The app supports both dark and light themes. Users can toggle between themes in the app's settings.
 
-# API Configuration
+### API Configuration
 The app uses the GitHub REST API to fetch user data. Ensure that you have internet connectivity and that the API endpoints are accessible.
 
-# Libraries and Packages Used
+### Libraries and Packages Used
 dio: For making HTTP requests to the GitHub API.
 provider: For state management and theme toggling.
 flutter_native_splash: For configuring the splash screen.
 
 
-# Acknowledgments
+### Acknowledgments
 Flutter: For the wonderful Flutter framework.
 GitHub REST API: For providing user data.
 Dio: For making HTTP requests.
